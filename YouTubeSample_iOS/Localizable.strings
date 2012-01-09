@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  YouTubeSample_iOS
+
+  Created by Manuel Carrasco Molina on 09.01.12.
+  Copyright (c) 2012 Pomcast. All rights reserved.
+*/
+
+"UPLOADED_VIDEO_MESSAGE"    = "Uploaded video: %@";
+"UPLOADED_VIDEO_TITLE"      = "Success!";
+"ERROR_UPLOAD_VIDEO_TITLE"  = "Upload failed";
